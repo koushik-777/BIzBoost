@@ -76,6 +76,6 @@ MIT License
 
 ## 📬 Contact
 
-Made by [Your Name]  
-📧 your.email@example.com  
-🐦 [@yourhandle](https://twitter.com/yourhandle)
+Made by [Koushik murali]  
+📧 koushikaadhy@gmail.com
+
