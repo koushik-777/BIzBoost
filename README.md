@@ -4,7 +4,6 @@
 
 🌐 **Live Demo:** [b-iz-boost.vercel.app](https://b-iz-boost.vercel.app/)
 
-![BizBoost Preview](https://b-iz-boost.vercel.app/og-image.png) <!-- Replace with a real image URL or use a local screenshot if hosted -->
 
 ---
 
